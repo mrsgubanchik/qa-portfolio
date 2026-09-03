@@ -66,3 +66,6 @@ SQL-запросы и работа с базами данных.
 ## 📫 Контакты
 
 - GitHub: [mrsgubanchik](https://github.com/mrsgubanchik)
+- Тел.: +79136190379
+- Почта: mrs.gubanchik@gmail.com
+- Telegram: @mrs_gubanchik
