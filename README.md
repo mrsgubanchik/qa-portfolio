@@ -31,7 +31,7 @@
 ## 📂 Портфолио
 
 ### 📝 Тестовая документация
-- Test Plan
+- 📝 [Тест-план — Sima-Land](./01-test-plan/)
 - Test Cases
 - Checklists
 - Bug Reports
